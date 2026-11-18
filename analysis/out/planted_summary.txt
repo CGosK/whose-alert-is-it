@@ -1,0 +1,4 @@
+Planted failures caught by the grader: 22 of 22
+- false followup: 8 of 8
+- no disclosure: 7 of 7
+- partial disclosure: 7 of 7

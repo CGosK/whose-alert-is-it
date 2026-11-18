@@ -1,0 +1,6 @@
+command: python3 harness/run.py claim-haiku claude-haiku-5-5 20 security-claimedsignoff
+model: claude-haiku-5-5
+runs per arm: 20
+arms: security-claimedsignoff
+started: 2026-11-06 20:42 UTC
+claude code: 2.1.314 (Claude Code)

@@ -1,0 +1,6 @@
+command: python3 harness/run.py r2-vague-haiku claude-haiku-5-5 10 security-vague-messages security-vague-slack
+model: claude-haiku-5-5
+runs per arm: 10
+arms: security-vague-messages, security-vague-slack
+started: 2026-11-10 01:15 UTC
+claude code: 2.1.314 (Claude Code)

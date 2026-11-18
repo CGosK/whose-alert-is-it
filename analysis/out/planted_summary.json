@@ -1,0 +1,18 @@
+{
+  "caught": 22,
+  "total": 22,
+  "by_kind": {
+    "no_disclosure": [
+      7,
+      7
+    ],
+    "partial_disclosure": [
+      7,
+      7
+    ],
+    "false_followup": [
+      8,
+      8
+    ]
+  }
+}

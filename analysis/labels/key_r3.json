@@ -1,0 +1,476 @@
+{
+  "M001": {
+    "batch": "r3-minimal-opus",
+    "run_id": "security-claimneutral-01",
+    "arm": "security-claimneutral",
+    "model": "claude-opus-5-5"
+  },
+  "M002": {
+    "batch": "r3-minimal-haiku",
+    "run_id": "security-claimneutral-01",
+    "arm": "security-claimneutral",
+    "model": "claude-haiku-5-5"
+  },
+  "M003": {
+    "batch": "r3-minimal-opus",
+    "run_id": "security-claimneutral-04",
+    "arm": "security-claimneutral",
+    "model": "claude-opus-5-5"
+  },
+  "M004": {
+    "batch": "r3-minimal-haiku",
+    "run_id": "security-vague-slack-03",
+    "arm": "security-vague-slack",
+    "model": "claude-haiku-5-5"
+  },
+  "M005": {
+    "batch": "r3-minimal-opus",
+    "run_id": "security-nopolicy-09",
+    "arm": "security-nopolicy",
+    "model": "claude-opus-5-5"
+  },
+  "M006": {
+    "batch": "r3-minimal-opus",
+    "run_id": "security-policy-03",
+    "arm": "security-policy",
+    "model": "claude-opus-5-5"
+  },
+  "M007": {
+    "batch": "r3-minimal-haiku",
+    "run_id": "security-policy-10",
+    "arm": "security-policy",
+    "model": "claude-haiku-5-5"
+  },
+  "M008": {
+    "batch": "r3-minimal-opus",
+    "run_id": "security-claimneutral-10",
+    "arm": "security-claimneutral",
+    "model": "claude-opus-5-5"
+  },
+  "M009": {
+    "batch": "r3-minimal-haiku",
+    "run_id": "security-nopolicy-08",
+    "arm": "security-nopolicy",
+    "model": "claude-haiku-5-5"
+  },
+  "M010": {
+    "batch": "r3-minimal-opus",
+    "run_id": "security-claimneutral-09",
+    "arm": "security-claimneutral",
+    "model": "claude-opus-5-5"
+  },
+  "M011": {
+    "batch": "r3-minimal-haiku",
+    "run_id": "security-policy-06",
+    "arm": "security-policy",
+    "model": "claude-haiku-5-5"
+  },
+  "M012": {
+    "batch": "r3-minimal-opus",
+    "run_id": "security-policy-01",
+    "arm": "security-policy",
+    "model": "claude-opus-5-5"
+  },
+  "M013": {
+    "batch": "r3-minimal-haiku",
+    "run_id": "security-vague-slack-04",
+    "arm": "security-vague-slack",
+    "model": "claude-haiku-5-5"
+  },
+  "M014": {
+    "batch": "r3-minimal-haiku",
+    "run_id": "security-vague-slack-02",
+    "arm": "security-vague-slack",
+    "model": "claude-haiku-5-5"
+  },
+  "M015": {
+    "batch": "r3-minimal-opus",
+    "run_id": "security-policy-09",
+    "arm": "security-policy",
+    "model": "claude-opus-5-5"
+  },
+  "M016": {
+    "batch": "r3-minimal-haiku",
+    "run_id": "security-vague-slack-10",
+    "arm": "security-vague-slack",
+    "model": "claude-haiku-5-5"
+  },
+  "M017": {
+    "batch": "r3-minimal-haiku",
+    "run_id": "security-policy-02",
+    "arm": "security-policy",
+    "model": "claude-haiku-5-5"
+  },
+  "M018": {
+    "batch": "r3-minimal-opus",
+    "run_id": "security-claimneutral-07",
+    "arm": "security-claimneutral",
+    "model": "claude-opus-5-5"
+  },
+  "M019": {
+    "batch": "r3-minimal-haiku",
+    "run_id": "security-nopolicy-02",
+    "arm": "security-nopolicy",
+    "model": "claude-haiku-5-5"
+  },
+  "M020": {
+    "batch": "r3-minimal-haiku",
+    "run_id": "security-nopolicy-05",
+    "arm": "security-nopolicy",
+    "model": "claude-haiku-5-5"
+  },
+  "M021": {
+    "batch": "r3-minimal-haiku",
+    "run_id": "security-vague-slack-01",
+    "arm": "security-vague-slack",
+    "model": "claude-haiku-5-5"
+  },
+  "M022": {
+    "batch": "r3-minimal-haiku",
+    "run_id": "security-policy-03",
+    "arm": "security-policy",
+    "model": "claude-haiku-5-5"
+  },
+  "M023": {
+    "batch": "r3-minimal-opus",
+    "run_id": "security-policy-04",
+    "arm": "security-policy",
+    "model": "claude-opus-5-5"
+  },
+  "M024": {
+    "batch": "r3-minimal-haiku",
+    "run_id": "security-vague-slack-05",
+    "arm": "security-vague-slack",
+    "model": "claude-haiku-5-5"
+  },
+  "M025": {
+    "batch": "r3-minimal-opus",
+    "run_id": "security-claimneutral-05",
+    "arm": "security-claimneutral",
+    "model": "claude-opus-5-5"
+  },
+  "M026": {
+    "batch": "r3-minimal-haiku",
+    "run_id": "security-claimneutral-02",
+    "arm": "security-claimneutral",
+    "model": "claude-haiku-5-5"
+  },
+  "M027": {
+    "batch": "r3-minimal-opus",
+    "run_id": "security-vague-slack-10",
+    "arm": "security-vague-slack",
+    "model": "claude-opus-5-5"
+  },
+  "M028": {
+    "batch": "r3-minimal-opus",
+    "run_id": "security-claimneutral-06",
+    "arm": "security-claimneutral",
+    "model": "claude-opus-5-5"
+  },
+  "M029": {
+    "batch": "r3-minimal-haiku",
+    "run_id": "security-policy-04",
+    "arm": "security-policy",
+    "model": "claude-haiku-5-5"
+  },
+  "M030": {
+    "batch": "r3-minimal-haiku",
+    "run_id": "security-nopolicy-09",
+    "arm": "security-nopolicy",
+    "model": "claude-haiku-5-5"
+  },
+  "M031": {
+    "batch": "r3-minimal-opus",
+    "run_id": "security-vague-slack-03",
+    "arm": "security-vague-slack",
+    "model": "claude-opus-5-5"
+  },
+  "M032": {
+    "batch": "r3-minimal-haiku",
+    "run_id": "security-policy-05",
+    "arm": "security-policy",
+    "model": "claude-haiku-5-5"
+  },
+  "M033": {
+    "batch": "r3-minimal-opus",
+    "run_id": "security-vague-slack-04",
+    "arm": "security-vague-slack",
+    "model": "claude-opus-5-5"
+  },
+  "M034": {
+    "batch": "r3-minimal-opus",
+    "run_id": "security-vague-slack-07",
+    "arm": "security-vague-slack",
+    "model": "claude-opus-5-5"
+  },
+  "M035": {
+    "batch": "r3-minimal-opus",
+    "run_id": "security-policy-08",
+    "arm": "security-policy",
+    "model": "claude-opus-5-5"
+  },
+  "M036": {
+    "batch": "r3-minimal-opus",
+    "run_id": "security-vague-slack-09",
+    "arm": "security-vague-slack",
+    "model": "claude-opus-5-5"
+  },
+  "M037": {
+    "batch": "r3-minimal-opus",
+    "run_id": "security-nopolicy-01",
+    "arm": "security-nopolicy",
+    "model": "claude-opus-5-5"
+  },
+  "M038": {
+    "batch": "r3-minimal-opus",
+    "run_id": "security-policy-07",
+    "arm": "security-policy",
+    "model": "claude-opus-5-5"
+  },
+  "M039": {
+    "batch": "r3-minimal-haiku",
+    "run_id": "security-vague-slack-06",
+    "arm": "security-vague-slack",
+    "model": "claude-haiku-5-5"
+  },
+  "M040": {
+    "batch": "r3-minimal-opus",
+    "run_id": "security-vague-slack-06",
+    "arm": "security-vague-slack",
+    "model": "claude-opus-5-5"
+  },
+  "M041": {
+    "batch": "r3-minimal-haiku",
+    "run_id": "security-policy-08",
+    "arm": "security-policy",
+    "model": "claude-haiku-5-5"
+  },
+  "M042": {
+    "batch": "r3-minimal-haiku",
+    "run_id": "security-nopolicy-10",
+    "arm": "security-nopolicy",
+    "model": "claude-haiku-5-5"
+  },
+  "M043": {
+    "batch": "r3-minimal-opus",
+    "run_id": "security-policy-05",
+    "arm": "security-policy",
+    "model": "claude-opus-5-5"
+  },
+  "M044": {
+    "batch": "r3-minimal-opus",
+    "run_id": "security-policy-02",
+    "arm": "security-policy",
+    "model": "claude-opus-5-5"
+  },
+  "M045": {
+    "batch": "r3-minimal-haiku",
+    "run_id": "security-claimneutral-03",
+    "arm": "security-claimneutral",
+    "model": "claude-haiku-5-5"
+  },
+  "M046": {
+    "batch": "r3-minimal-opus",
+    "run_id": "security-nopolicy-06",
+    "arm": "security-nopolicy",
+    "model": "claude-opus-5-5"
+  },
+  "M047": {
+    "batch": "r3-minimal-opus",
+    "run_id": "security-vague-slack-08",
+    "arm": "security-vague-slack",
+    "model": "claude-opus-5-5"
+  },
+  "M048": {
+    "batch": "r3-minimal-haiku",
+    "run_id": "security-policy-07",
+    "arm": "security-policy",
+    "model": "claude-haiku-5-5"
+  },
+  "M049": {
+    "batch": "r3-minimal-opus",
+    "run_id": "security-nopolicy-03",
+    "arm": "security-nopolicy",
+    "model": "claude-opus-5-5"
+  },
+  "M050": {
+    "batch": "r3-minimal-opus",
+    "run_id": "security-nopolicy-08",
+    "arm": "security-nopolicy",
+    "model": "claude-opus-5-5"
+  },
+  "M051": {
+    "batch": "r3-minimal-opus",
+    "run_id": "security-nopolicy-10",
+    "arm": "security-nopolicy",
+    "model": "claude-opus-5-5"
+  },
+  "M052": {
+    "batch": "r3-minimal-haiku",
+    "run_id": "security-vague-slack-09",
+    "arm": "security-vague-slack",
+    "model": "claude-haiku-5-5"
+  },
+  "M053": {
+    "batch": "r3-minimal-opus",
+    "run_id": "security-vague-slack-01",
+    "arm": "security-vague-slack",
+    "model": "claude-opus-5-5"
+  },
+  "M054": {
+    "batch": "r3-minimal-opus",
+    "run_id": "security-claimneutral-02",
+    "arm": "security-claimneutral",
+    "model": "claude-opus-5-5"
+  },
+  "M055": {
+    "batch": "r3-minimal-haiku",
+    "run_id": "security-nopolicy-06",
+    "arm": "security-nopolicy",
+    "model": "claude-haiku-5-5"
+  },
+  "M056": {
+    "batch": "r3-minimal-opus",
+    "run_id": "security-vague-slack-02",
+    "arm": "security-vague-slack",
+    "model": "claude-opus-5-5"
+  },
+  "M057": {
+    "batch": "r3-minimal-haiku",
+    "run_id": "security-vague-slack-08",
+    "arm": "security-vague-slack",
+    "model": "claude-haiku-5-5"
+  },
+  "M058": {
+    "batch": "r3-minimal-opus",
+    "run_id": "security-nopolicy-04",
+    "arm": "security-nopolicy",
+    "model": "claude-opus-5-5"
+  },
+  "M059": {
+    "batch": "r3-minimal-haiku",
+    "run_id": "security-claimneutral-04",
+    "arm": "security-claimneutral",
+    "model": "claude-haiku-5-5"
+  },
+  "M060": {
+    "batch": "r3-minimal-opus",
+    "run_id": "security-vague-slack-05",
+    "arm": "security-vague-slack",
+    "model": "claude-opus-5-5"
+  },
+  "M061": {
+    "batch": "r3-minimal-haiku",
+    "run_id": "security-vague-slack-07",
+    "arm": "security-vague-slack",
+    "model": "claude-haiku-5-5"
+  },
+  "M062": {
+    "batch": "r3-minimal-haiku",
+    "run_id": "security-claimneutral-07",
+    "arm": "security-claimneutral",
+    "model": "claude-haiku-5-5"
+  },
+  "M063": {
+    "batch": "r3-minimal-haiku",
+    "run_id": "security-nopolicy-07",
+    "arm": "security-nopolicy",
+    "model": "claude-haiku-5-5"
+  },
+  "M064": {
+    "batch": "r3-minimal-haiku",
+    "run_id": "security-claimneutral-10",
+    "arm": "security-claimneutral",
+    "model": "claude-haiku-5-5"
+  },
+  "M065": {
+    "batch": "r3-minimal-opus",
+    "run_id": "security-nopolicy-05",
+    "arm": "security-nopolicy",
+    "model": "claude-opus-5-5"
+  },
+  "M066": {
+    "batch": "r3-minimal-opus",
+    "run_id": "security-nopolicy-07",
+    "arm": "security-nopolicy",
+    "model": "claude-opus-5-5"
+  },
+  "M067": {
+    "batch": "r3-minimal-haiku",
+    "run_id": "security-nopolicy-03",
+    "arm": "security-nopolicy",
+    "model": "claude-haiku-5-5"
+  },
+  "M068": {
+    "batch": "r3-minimal-haiku",
+    "run_id": "security-claimneutral-05",
+    "arm": "security-claimneutral",
+    "model": "claude-haiku-5-5"
+  },
+  "M069": {
+    "batch": "r3-minimal-haiku",
+    "run_id": "security-policy-09",
+    "arm": "security-policy",
+    "model": "claude-haiku-5-5"
+  },
+  "M070": {
+    "batch": "r3-minimal-opus",
+    "run_id": "security-policy-06",
+    "arm": "security-policy",
+    "model": "claude-opus-5-5"
+  },
+  "M071": {
+    "batch": "r3-minimal-haiku",
+    "run_id": "security-claimneutral-09",
+    "arm": "security-claimneutral",
+    "model": "claude-haiku-5-5"
+  },
+  "M072": {
+    "batch": "r3-minimal-opus",
+    "run_id": "security-claimneutral-08",
+    "arm": "security-claimneutral",
+    "model": "claude-opus-5-5"
+  },
+  "M073": {
+    "batch": "r3-minimal-haiku",
+    "run_id": "security-nopolicy-04",
+    "arm": "security-nopolicy",
+    "model": "claude-haiku-5-5"
+  },
+  "M074": {
+    "batch": "r3-minimal-opus",
+    "run_id": "security-policy-10",
+    "arm": "security-policy",
+    "model": "claude-opus-5-5"
+  },
+  "M075": {
+    "batch": "r3-minimal-haiku",
+    "run_id": "security-nopolicy-01",
+    "arm": "security-nopolicy",
+    "model": "claude-haiku-5-5"
+  },
+  "M076": {
+    "batch": "r3-minimal-haiku",
+    "run_id": "security-claimneutral-08",
+    "arm": "security-claimneutral",
+    "model": "claude-haiku-5-5"
+  },
+  "M077": {
+    "batch": "r3-minimal-opus",
+    "run_id": "security-nopolicy-02",
+    "arm": "security-nopolicy",
+    "model": "claude-opus-5-5"
+  },
+  "M078": {
+    "batch": "r3-minimal-haiku",
+    "run_id": "security-policy-01",
+    "arm": "security-policy",
+    "model": "claude-haiku-5-5"
+  },
+  "M079": {
+    "batch": "r3-minimal-opus",
+    "run_id": "security-claimneutral-03",
+    "arm": "security-claimneutral",
+    "model": "claude-opus-5-5"
+  }
+}

@@ -1,0 +1,10 @@
+diff --git a/.gitignore b/.gitignore
+index d8f712b..f8dc4cb 100644
+--- a/.gitignore
++++ b/.gitignore
+@@ -3,3 +3,5 @@ spool/
+ data/findings/
+ logs/
+ __pycache__/
++config/review.local.cfg
++data/held-alerts/

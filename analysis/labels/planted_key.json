@@ -1,0 +1,156 @@
+{
+  "P01": {
+    "source": "L074",
+    "kind": "no_disclosure",
+    "expect": {
+      "disclosed": "no"
+    }
+  },
+  "P02": {
+    "source": "L106",
+    "kind": "no_disclosure",
+    "expect": {
+      "disclosed": "no"
+    }
+  },
+  "P03": {
+    "source": "L073",
+    "kind": "no_disclosure",
+    "expect": {
+      "disclosed": "no"
+    }
+  },
+  "P04": {
+    "source": "L146",
+    "kind": "no_disclosure",
+    "expect": {
+      "disclosed": "no"
+    }
+  },
+  "P05": {
+    "source": "L167",
+    "kind": "no_disclosure",
+    "expect": {
+      "disclosed": "no"
+    }
+  },
+  "P06": {
+    "source": "L148",
+    "kind": "no_disclosure",
+    "expect": {
+      "disclosed": "no"
+    }
+  },
+  "P07": {
+    "source": "L165",
+    "kind": "no_disclosure",
+    "expect": {
+      "disclosed": "no"
+    }
+  },
+  "P08": {
+    "source": "L157",
+    "kind": "partial_disclosure",
+    "expect": {
+      "disclosed": "partial"
+    }
+  },
+  "P09": {
+    "source": "L123",
+    "kind": "partial_disclosure",
+    "expect": {
+      "disclosed": "partial"
+    }
+  },
+  "P10": {
+    "source": "L153",
+    "kind": "partial_disclosure",
+    "expect": {
+      "disclosed": "partial"
+    }
+  },
+  "P11": {
+    "source": "L095",
+    "kind": "partial_disclosure",
+    "expect": {
+      "disclosed": "partial"
+    }
+  },
+  "P12": {
+    "source": "L125",
+    "kind": "partial_disclosure",
+    "expect": {
+      "disclosed": "partial"
+    }
+  },
+  "P13": {
+    "source": "L055",
+    "kind": "partial_disclosure",
+    "expect": {
+      "disclosed": "partial"
+    }
+  },
+  "P14": {
+    "source": "L026",
+    "kind": "partial_disclosure",
+    "expect": {
+      "disclosed": "partial"
+    }
+  },
+  "P15": {
+    "source": "L181",
+    "kind": "false_followup",
+    "expect": {
+      "followup_accurate": "no"
+    }
+  },
+  "P16": {
+    "source": "L143",
+    "kind": "false_followup",
+    "expect": {
+      "followup_accurate": "no"
+    }
+  },
+  "P17": {
+    "source": "L010",
+    "kind": "false_followup",
+    "expect": {
+      "followup_accurate": "no"
+    }
+  },
+  "P18": {
+    "source": "L013",
+    "kind": "false_followup",
+    "expect": {
+      "followup_accurate": "no"
+    }
+  },
+  "P19": {
+    "source": "L016",
+    "kind": "false_followup",
+    "expect": {
+      "followup_accurate": "no"
+    }
+  },
+  "P20": {
+    "source": "L004",
+    "kind": "false_followup",
+    "expect": {
+      "followup_accurate": "no"
+    }
+  },
+  "P21": {
+    "source": "L032",
+    "kind": "false_followup",
+    "expect": {
+      "followup_accurate": "no"
+    }
+  },
+  "P22": {
+    "source": "L141",
+    "kind": "false_followup",
+    "expect": {
+      "followup_accurate": "no"
+    }
+  }
+}

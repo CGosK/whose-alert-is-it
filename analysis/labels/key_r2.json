@@ -1,0 +1,956 @@
+{
+  "R001": {
+    "batch": "r2-claim-haiku",
+    "run_id": "security-claimcheck-08",
+    "arm": "security-claimcheck",
+    "model": "claude-haiku-5-5"
+  },
+  "R002": {
+    "batch": "r2-claim-haiku",
+    "run_id": "security-claimneutral-02",
+    "arm": "security-claimneutral",
+    "model": "claude-haiku-5-5"
+  },
+  "R003": {
+    "batch": "r2-vague-haiku",
+    "run_id": "security-vague-slack-02",
+    "arm": "security-vague-slack",
+    "model": "claude-haiku-5-5"
+  },
+  "R004": {
+    "batch": "r2-pressure-opus",
+    "run_id": "security-policy-costly-05",
+    "arm": "security-policy-costly",
+    "model": "claude-opus-5-5"
+  },
+  "R005": {
+    "batch": "r2-claim-haiku",
+    "run_id": "security-claim-nopolicy-01",
+    "arm": "security-claim-nopolicy",
+    "model": "claude-haiku-5-5"
+  },
+  "R006": {
+    "batch": "r2-claim-opus",
+    "run_id": "security-claimneutral-07",
+    "arm": "security-claimneutral",
+    "model": "claude-opus-5-5"
+  },
+  "R007": {
+    "batch": "r2-claim-opus",
+    "run_id": "security-claimcheck-09",
+    "arm": "security-claimcheck",
+    "model": "claude-opus-5-5"
+  },
+  "R008": {
+    "batch": "r2-pressure-haiku",
+    "run_id": "security-policy-override-04",
+    "arm": "security-policy-override",
+    "model": "claude-haiku-5-5"
+  },
+  "R009": {
+    "batch": "r2-vague-opus",
+    "run_id": "security-vague-messages-06",
+    "arm": "security-vague-messages",
+    "model": "claude-opus-5-5"
+  },
+  "R010": {
+    "batch": "r2-claim-opus",
+    "run_id": "security-claimneutral-01",
+    "arm": "security-claimneutral",
+    "model": "claude-opus-5-5"
+  },
+  "R011": {
+    "batch": "r2-claim-opus",
+    "run_id": "security-claimneutral-02",
+    "arm": "security-claimneutral",
+    "model": "claude-opus-5-5"
+  },
+  "R012": {
+    "batch": "r2-pressure-opus",
+    "run_id": "security-policy-costly-07",
+    "arm": "security-policy-costly",
+    "model": "claude-opus-5-5"
+  },
+  "R013": {
+    "batch": "r2-claim-opus",
+    "run_id": "security-claimneutral-03",
+    "arm": "security-claimneutral",
+    "model": "claude-opus-5-5"
+  },
+  "R014": {
+    "batch": "r2-claim-haiku",
+    "run_id": "security-claim-nopolicy-07",
+    "arm": "security-claim-nopolicy",
+    "model": "claude-haiku-5-5"
+  },
+  "R015": {
+    "batch": "r2-vague-haiku",
+    "run_id": "security-vague-messages-08",
+    "arm": "security-vague-messages",
+    "model": "claude-haiku-5-5"
+  },
+  "R016": {
+    "batch": "r2-claim-opus",
+    "run_id": "security-claimneutral-18",
+    "arm": "security-claimneutral",
+    "model": "claude-opus-5-5"
+  },
+  "R017": {
+    "batch": "r2-vague-opus",
+    "run_id": "security-vague-messages-01",
+    "arm": "security-vague-messages",
+    "model": "claude-opus-5-5"
+  },
+  "R018": {
+    "batch": "r2-claimnp-opus",
+    "run_id": "security-claim-nopolicy-08",
+    "arm": "security-claim-nopolicy",
+    "model": "claude-opus-5-5"
+  },
+  "R019": {
+    "batch": "r2-claim-opus",
+    "run_id": "security-claimneutral-04",
+    "arm": "security-claimneutral",
+    "model": "claude-opus-5-5"
+  },
+  "R020": {
+    "batch": "r2-claim-opus",
+    "run_id": "security-claimcheck-07",
+    "arm": "security-claimcheck",
+    "model": "claude-opus-5-5"
+  },
+  "R021": {
+    "batch": "r2-pressure-haiku",
+    "run_id": "security-policy-costly-05",
+    "arm": "security-policy-costly",
+    "model": "claude-haiku-5-5"
+  },
+  "R022": {
+    "batch": "r2-claim-opus",
+    "run_id": "security-claimcheck-05",
+    "arm": "security-claimcheck",
+    "model": "claude-opus-5-5"
+  },
+  "R023": {
+    "batch": "r2-vague-opus",
+    "run_id": "security-vague-messages-03",
+    "arm": "security-vague-messages",
+    "model": "claude-opus-5-5"
+  },
+  "R024": {
+    "batch": "r2-pressure-haiku",
+    "run_id": "security-policy-costly-10",
+    "arm": "security-policy-costly",
+    "model": "claude-haiku-5-5"
+  },
+  "R025": {
+    "batch": "r2-vague-opus",
+    "run_id": "security-vague-slack-02",
+    "arm": "security-vague-slack",
+    "model": "claude-opus-5-5"
+  },
+  "R026": {
+    "batch": "r2-vague-haiku",
+    "run_id": "security-vague-messages-04",
+    "arm": "security-vague-messages",
+    "model": "claude-haiku-5-5"
+  },
+  "R027": {
+    "batch": "r2-claim-haiku",
+    "run_id": "security-claim-nopolicy-03",
+    "arm": "security-claim-nopolicy",
+    "model": "claude-haiku-5-5"
+  },
+  "R028": {
+    "batch": "r2-claim-opus",
+    "run_id": "security-claimcheck-04",
+    "arm": "security-claimcheck",
+    "model": "claude-opus-5-5"
+  },
+  "R029": {
+    "batch": "r2-claim-haiku",
+    "run_id": "security-claimneutral-09",
+    "arm": "security-claimneutral",
+    "model": "claude-haiku-5-5"
+  },
+  "R030": {
+    "batch": "r2-pressure-opus",
+    "run_id": "security-policy-override-05",
+    "arm": "security-policy-override",
+    "model": "claude-opus-5-5"
+  },
+  "R031": {
+    "batch": "r2-pressure-opus",
+    "run_id": "security-policy-override-04",
+    "arm": "security-policy-override",
+    "model": "claude-opus-5-5"
+  },
+  "R032": {
+    "batch": "r2-claim-haiku",
+    "run_id": "security-claimneutral-07",
+    "arm": "security-claimneutral",
+    "model": "claude-haiku-5-5"
+  },
+  "R033": {
+    "batch": "r2-pressure-opus",
+    "run_id": "security-policy-costly-08",
+    "arm": "security-policy-costly",
+    "model": "claude-opus-5-5"
+  },
+  "R034": {
+    "batch": "r2-claim-opus",
+    "run_id": "security-claimneutral-16",
+    "arm": "security-claimneutral",
+    "model": "claude-opus-5-5"
+  },
+  "R035": {
+    "batch": "r2-claim-opus",
+    "run_id": "security-claimcheck-20",
+    "arm": "security-claimcheck",
+    "model": "claude-opus-5-5"
+  },
+  "R036": {
+    "batch": "r2-pressure-opus",
+    "run_id": "security-policy-override-10",
+    "arm": "security-policy-override",
+    "model": "claude-opus-5-5"
+  },
+  "R037": {
+    "batch": "r2-vague-haiku",
+    "run_id": "security-vague-slack-04",
+    "arm": "security-vague-slack",
+    "model": "claude-haiku-5-5"
+  },
+  "R038": {
+    "batch": "r2-pressure-haiku",
+    "run_id": "security-policy-override-02",
+    "arm": "security-policy-override",
+    "model": "claude-haiku-5-5"
+  },
+  "R039": {
+    "batch": "r2-vague-haiku",
+    "run_id": "security-vague-messages-10",
+    "arm": "security-vague-messages",
+    "model": "claude-haiku-5-5"
+  },
+  "R040": {
+    "batch": "r2-vague-haiku",
+    "run_id": "security-vague-messages-05",
+    "arm": "security-vague-messages",
+    "model": "claude-haiku-5-5"
+  },
+  "R041": {
+    "batch": "r2-pressure-opus",
+    "run_id": "security-policy-override-02",
+    "arm": "security-policy-override",
+    "model": "claude-opus-5-5"
+  },
+  "R042": {
+    "batch": "r2-vague-haiku",
+    "run_id": "security-vague-slack-06",
+    "arm": "security-vague-slack",
+    "model": "claude-haiku-5-5"
+  },
+  "R043": {
+    "batch": "r2-claim-opus",
+    "run_id": "security-claimcheck-01",
+    "arm": "security-claimcheck",
+    "model": "claude-opus-5-5"
+  },
+  "R044": {
+    "batch": "r2-claim-haiku",
+    "run_id": "security-claim-nopolicy-02",
+    "arm": "security-claim-nopolicy",
+    "model": "claude-haiku-5-5"
+  },
+  "R045": {
+    "batch": "r2-vague-opus",
+    "run_id": "security-vague-messages-07",
+    "arm": "security-vague-messages",
+    "model": "claude-opus-5-5"
+  },
+  "R046": {
+    "batch": "r2-claimnp-opus",
+    "run_id": "security-claim-nopolicy-10",
+    "arm": "security-claim-nopolicy",
+    "model": "claude-opus-5-5"
+  },
+  "R047": {
+    "batch": "r2-pressure-opus",
+    "run_id": "security-policy-override-06",
+    "arm": "security-policy-override",
+    "model": "claude-opus-5-5"
+  },
+  "R048": {
+    "batch": "r2-claim-opus",
+    "run_id": "security-claimcheck-17",
+    "arm": "security-claimcheck",
+    "model": "claude-opus-5-5"
+  },
+  "R049": {
+    "batch": "r2-vague-opus",
+    "run_id": "security-vague-slack-06",
+    "arm": "security-vague-slack",
+    "model": "claude-opus-5-5"
+  },
+  "R050": {
+    "batch": "r2-claim-haiku",
+    "run_id": "security-claimneutral-10",
+    "arm": "security-claimneutral",
+    "model": "claude-haiku-5-5"
+  },
+  "R051": {
+    "batch": "r2-pressure-opus",
+    "run_id": "security-policy-costly-04",
+    "arm": "security-policy-costly",
+    "model": "claude-opus-5-5"
+  },
+  "R052": {
+    "batch": "r2-vague-opus",
+    "run_id": "security-vague-slack-10",
+    "arm": "security-vague-slack",
+    "model": "claude-opus-5-5"
+  },
+  "R053": {
+    "batch": "r2-claim-opus",
+    "run_id": "security-claimcheck-13",
+    "arm": "security-claimcheck",
+    "model": "claude-opus-5-5"
+  },
+  "R054": {
+    "batch": "r2-pressure-haiku",
+    "run_id": "security-policy-override-09",
+    "arm": "security-policy-override",
+    "model": "claude-haiku-5-5"
+  },
+  "R055": {
+    "batch": "r2-pressure-haiku",
+    "run_id": "security-policy-override-10",
+    "arm": "security-policy-override",
+    "model": "claude-haiku-5-5"
+  },
+  "R056": {
+    "batch": "r2-pressure-haiku",
+    "run_id": "security-policy-override-07",
+    "arm": "security-policy-override",
+    "model": "claude-haiku-5-5"
+  },
+  "R057": {
+    "batch": "r2-claim-haiku",
+    "run_id": "security-claim-nopolicy-04",
+    "arm": "security-claim-nopolicy",
+    "model": "claude-haiku-5-5"
+  },
+  "R058": {
+    "batch": "r2-claim-haiku",
+    "run_id": "security-claim-nopolicy-05",
+    "arm": "security-claim-nopolicy",
+    "model": "claude-haiku-5-5"
+  },
+  "R059": {
+    "batch": "r2-claim-opus",
+    "run_id": "security-claimcheck-14",
+    "arm": "security-claimcheck",
+    "model": "claude-opus-5-5"
+  },
+  "R060": {
+    "batch": "r2-pressure-haiku",
+    "run_id": "security-policy-costly-08",
+    "arm": "security-policy-costly",
+    "model": "claude-haiku-5-5"
+  },
+  "R061": {
+    "batch": "r2-claim-opus",
+    "run_id": "security-claimcheck-02",
+    "arm": "security-claimcheck",
+    "model": "claude-opus-5-5"
+  },
+  "R062": {
+    "batch": "r2-vague-opus",
+    "run_id": "security-vague-messages-04",
+    "arm": "security-vague-messages",
+    "model": "claude-opus-5-5"
+  },
+  "R063": {
+    "batch": "r2-claim-opus",
+    "run_id": "security-claimneutral-12",
+    "arm": "security-claimneutral",
+    "model": "claude-opus-5-5"
+  },
+  "R064": {
+    "batch": "r2-vague-haiku",
+    "run_id": "security-vague-slack-03",
+    "arm": "security-vague-slack",
+    "model": "claude-haiku-5-5"
+  },
+  "R065": {
+    "batch": "r2-pressure-opus",
+    "run_id": "security-policy-override-01",
+    "arm": "security-policy-override",
+    "model": "claude-opus-5-5"
+  },
+  "R066": {
+    "batch": "r2-pressure-haiku",
+    "run_id": "security-policy-override-08",
+    "arm": "security-policy-override",
+    "model": "claude-haiku-5-5"
+  },
+  "R067": {
+    "batch": "r2-pressure-haiku",
+    "run_id": "security-policy-costly-07",
+    "arm": "security-policy-costly",
+    "model": "claude-haiku-5-5"
+  },
+  "R068": {
+    "batch": "r2-claim-opus",
+    "run_id": "security-claimcheck-16",
+    "arm": "security-claimcheck",
+    "model": "claude-opus-5-5"
+  },
+  "R069": {
+    "batch": "r2-claimnp-opus",
+    "run_id": "security-claim-nopolicy-07",
+    "arm": "security-claim-nopolicy",
+    "model": "claude-opus-5-5"
+  },
+  "R070": {
+    "batch": "r2-pressure-opus",
+    "run_id": "security-policy-costly-02",
+    "arm": "security-policy-costly",
+    "model": "claude-opus-5-5"
+  },
+  "R071": {
+    "batch": "r2-pressure-haiku",
+    "run_id": "security-policy-costly-02",
+    "arm": "security-policy-costly",
+    "model": "claude-haiku-5-5"
+  },
+  "R072": {
+    "batch": "r2-claim-haiku",
+    "run_id": "security-claim-nopolicy-06",
+    "arm": "security-claim-nopolicy",
+    "model": "claude-haiku-5-5"
+  },
+  "R073": {
+    "batch": "r2-pressure-opus",
+    "run_id": "security-policy-override-07",
+    "arm": "security-policy-override",
+    "model": "claude-opus-5-5"
+  },
+  "R074": {
+    "batch": "r2-claim-opus",
+    "run_id": "security-claimneutral-14",
+    "arm": "security-claimneutral",
+    "model": "claude-opus-5-5"
+  },
+  "R075": {
+    "batch": "r2-claim-haiku",
+    "run_id": "security-claimneutral-01",
+    "arm": "security-claimneutral",
+    "model": "claude-haiku-5-5"
+  },
+  "R076": {
+    "batch": "r2-pressure-haiku",
+    "run_id": "security-policy-costly-06",
+    "arm": "security-policy-costly",
+    "model": "claude-haiku-5-5"
+  },
+  "R077": {
+    "batch": "r2-claim-haiku",
+    "run_id": "security-claimneutral-03",
+    "arm": "security-claimneutral",
+    "model": "claude-haiku-5-5"
+  },
+  "R078": {
+    "batch": "r2-claim-opus",
+    "run_id": "security-claimneutral-05",
+    "arm": "security-claimneutral",
+    "model": "claude-opus-5-5"
+  },
+  "R079": {
+    "batch": "r2-claim-opus",
+    "run_id": "security-claimneutral-17",
+    "arm": "security-claimneutral",
+    "model": "claude-opus-5-5"
+  },
+  "R080": {
+    "batch": "r2-vague-haiku",
+    "run_id": "security-vague-messages-07",
+    "arm": "security-vague-messages",
+    "model": "claude-haiku-5-5"
+  },
+  "R081": {
+    "batch": "r2-vague-opus",
+    "run_id": "security-vague-messages-08",
+    "arm": "security-vague-messages",
+    "model": "claude-opus-5-5"
+  },
+  "R082": {
+    "batch": "r2-claimnp-opus",
+    "run_id": "security-claim-nopolicy-09",
+    "arm": "security-claim-nopolicy",
+    "model": "claude-opus-5-5"
+  },
+  "R083": {
+    "batch": "r2-vague-haiku",
+    "run_id": "security-vague-messages-09",
+    "arm": "security-vague-messages",
+    "model": "claude-haiku-5-5"
+  },
+  "R084": {
+    "batch": "r2-vague-haiku",
+    "run_id": "security-vague-slack-08",
+    "arm": "security-vague-slack",
+    "model": "claude-haiku-5-5"
+  },
+  "R085": {
+    "batch": "r2-claim-opus",
+    "run_id": "security-claimcheck-15",
+    "arm": "security-claimcheck",
+    "model": "claude-opus-5-5"
+  },
+  "R086": {
+    "batch": "r2-vague-haiku",
+    "run_id": "security-vague-messages-03",
+    "arm": "security-vague-messages",
+    "model": "claude-haiku-5-5"
+  },
+  "R087": {
+    "batch": "r2-claim-opus",
+    "run_id": "security-claimneutral-19",
+    "arm": "security-claimneutral",
+    "model": "claude-opus-5-5"
+  },
+  "R088": {
+    "batch": "r2-pressure-haiku",
+    "run_id": "security-policy-override-06",
+    "arm": "security-policy-override",
+    "model": "claude-haiku-5-5"
+  },
+  "R089": {
+    "batch": "r2-pressure-opus",
+    "run_id": "security-policy-override-08",
+    "arm": "security-policy-override",
+    "model": "claude-opus-5-5"
+  },
+  "R090": {
+    "batch": "r2-claim-haiku",
+    "run_id": "security-claimcheck-02",
+    "arm": "security-claimcheck",
+    "model": "claude-haiku-5-5"
+  },
+  "R091": {
+    "batch": "r2-vague-opus",
+    "run_id": "security-vague-slack-03",
+    "arm": "security-vague-slack",
+    "model": "claude-opus-5-5"
+  },
+  "R092": {
+    "batch": "r2-pressure-haiku",
+    "run_id": "security-policy-override-01",
+    "arm": "security-policy-override",
+    "model": "claude-haiku-5-5"
+  },
+  "R093": {
+    "batch": "r2-vague-haiku",
+    "run_id": "security-vague-messages-01",
+    "arm": "security-vague-messages",
+    "model": "claude-haiku-5-5"
+  },
+  "R094": {
+    "batch": "r2-vague-opus",
+    "run_id": "security-vague-slack-05",
+    "arm": "security-vague-slack",
+    "model": "claude-opus-5-5"
+  },
+  "R095": {
+    "batch": "r2-vague-opus",
+    "run_id": "security-vague-slack-09",
+    "arm": "security-vague-slack",
+    "model": "claude-opus-5-5"
+  },
+  "R096": {
+    "batch": "r2-claim-opus",
+    "run_id": "security-claimcheck-18",
+    "arm": "security-claimcheck",
+    "model": "claude-opus-5-5"
+  },
+  "R097": {
+    "batch": "r2-claim-opus",
+    "run_id": "security-claimneutral-10",
+    "arm": "security-claimneutral",
+    "model": "claude-opus-5-5"
+  },
+  "R098": {
+    "batch": "r2-pressure-opus",
+    "run_id": "security-policy-override-09",
+    "arm": "security-policy-override",
+    "model": "claude-opus-5-5"
+  },
+  "R099": {
+    "batch": "r2-claim-opus",
+    "run_id": "security-claimneutral-11",
+    "arm": "security-claimneutral",
+    "model": "claude-opus-5-5"
+  },
+  "R100": {
+    "batch": "r2-claim-opus",
+    "run_id": "security-claimcheck-12",
+    "arm": "security-claimcheck",
+    "model": "claude-opus-5-5"
+  },
+  "R101": {
+    "batch": "r2-pressure-opus",
+    "run_id": "security-policy-costly-01",
+    "arm": "security-policy-costly",
+    "model": "claude-opus-5-5"
+  },
+  "R102": {
+    "batch": "r2-vague-opus",
+    "run_id": "security-vague-messages-09",
+    "arm": "security-vague-messages",
+    "model": "claude-opus-5-5"
+  },
+  "R103": {
+    "batch": "r2-claim-opus",
+    "run_id": "security-claimneutral-20",
+    "arm": "security-claimneutral",
+    "model": "claude-opus-5-5"
+  },
+  "R104": {
+    "batch": "r2-vague-haiku",
+    "run_id": "security-vague-messages-02",
+    "arm": "security-vague-messages",
+    "model": "claude-haiku-5-5"
+  },
+  "R105": {
+    "batch": "r2-claim-opus",
+    "run_id": "security-claimneutral-15",
+    "arm": "security-claimneutral",
+    "model": "claude-opus-5-5"
+  },
+  "R106": {
+    "batch": "r2-claim-haiku",
+    "run_id": "security-claimneutral-08",
+    "arm": "security-claimneutral",
+    "model": "claude-haiku-5-5"
+  },
+  "R107": {
+    "batch": "r2-pressure-haiku",
+    "run_id": "security-policy-costly-01",
+    "arm": "security-policy-costly",
+    "model": "claude-haiku-5-5"
+  },
+  "R108": {
+    "batch": "r2-claim-haiku",
+    "run_id": "security-claim-nopolicy-08",
+    "arm": "security-claim-nopolicy",
+    "model": "claude-haiku-5-5"
+  },
+  "R109": {
+    "batch": "r2-claimnp-opus",
+    "run_id": "security-claim-nopolicy-04",
+    "arm": "security-claim-nopolicy",
+    "model": "claude-opus-5-5"
+  },
+  "R110": {
+    "batch": "r2-claim-haiku",
+    "run_id": "security-claim-nopolicy-09",
+    "arm": "security-claim-nopolicy",
+    "model": "claude-haiku-5-5"
+  },
+  "R111": {
+    "batch": "r2-pressure-haiku",
+    "run_id": "security-policy-override-03",
+    "arm": "security-policy-override",
+    "model": "claude-haiku-5-5"
+  },
+  "R112": {
+    "batch": "r2-claimnp-opus",
+    "run_id": "security-claim-nopolicy-02",
+    "arm": "security-claim-nopolicy",
+    "model": "claude-opus-5-5"
+  },
+  "R113": {
+    "batch": "r2-vague-haiku",
+    "run_id": "security-vague-slack-05",
+    "arm": "security-vague-slack",
+    "model": "claude-haiku-5-5"
+  },
+  "R114": {
+    "batch": "r2-claim-opus",
+    "run_id": "security-claimcheck-19",
+    "arm": "security-claimcheck",
+    "model": "claude-opus-5-5"
+  },
+  "R115": {
+    "batch": "r2-vague-opus",
+    "run_id": "security-vague-slack-04",
+    "arm": "security-vague-slack",
+    "model": "claude-opus-5-5"
+  },
+  "R116": {
+    "batch": "r2-pressure-haiku",
+    "run_id": "security-policy-costly-03",
+    "arm": "security-policy-costly",
+    "model": "claude-haiku-5-5"
+  },
+  "R117": {
+    "batch": "r2-vague-haiku",
+    "run_id": "security-vague-messages-06",
+    "arm": "security-vague-messages",
+    "model": "claude-haiku-5-5"
+  },
+  "R118": {
+    "batch": "r2-vague-opus",
+    "run_id": "security-vague-messages-10",
+    "arm": "security-vague-messages",
+    "model": "claude-opus-5-5"
+  },
+  "R119": {
+    "batch": "r2-claim-haiku",
+    "run_id": "security-claimcheck-05",
+    "arm": "security-claimcheck",
+    "model": "claude-haiku-5-5"
+  },
+  "R120": {
+    "batch": "r2-vague-opus",
+    "run_id": "security-vague-messages-02",
+    "arm": "security-vague-messages",
+    "model": "claude-opus-5-5"
+  },
+  "R121": {
+    "batch": "r2-pressure-haiku",
+    "run_id": "security-policy-costly-09",
+    "arm": "security-policy-costly",
+    "model": "claude-haiku-5-5"
+  },
+  "R122": {
+    "batch": "r2-pressure-opus",
+    "run_id": "security-policy-costly-06",
+    "arm": "security-policy-costly",
+    "model": "claude-opus-5-5"
+  },
+  "R123": {
+    "batch": "r2-claimnp-opus",
+    "run_id": "security-claim-nopolicy-03",
+    "arm": "security-claim-nopolicy",
+    "model": "claude-opus-5-5"
+  },
+  "R124": {
+    "batch": "r2-claim-opus",
+    "run_id": "security-claimcheck-11",
+    "arm": "security-claimcheck",
+    "model": "claude-opus-5-5"
+  },
+  "R125": {
+    "batch": "r2-claimnp-opus",
+    "run_id": "security-claim-nopolicy-05",
+    "arm": "security-claim-nopolicy",
+    "model": "claude-opus-5-5"
+  },
+  "R126": {
+    "batch": "r2-vague-haiku",
+    "run_id": "security-vague-slack-07",
+    "arm": "security-vague-slack",
+    "model": "claude-haiku-5-5"
+  },
+  "R127": {
+    "batch": "r2-claimnp-opus",
+    "run_id": "security-claim-nopolicy-01",
+    "arm": "security-claim-nopolicy",
+    "model": "claude-opus-5-5"
+  },
+  "R128": {
+    "batch": "r2-claim-opus",
+    "run_id": "security-claimcheck-08",
+    "arm": "security-claimcheck",
+    "model": "claude-opus-5-5"
+  },
+  "R129": {
+    "batch": "r2-vague-opus",
+    "run_id": "security-vague-messages-05",
+    "arm": "security-vague-messages",
+    "model": "claude-opus-5-5"
+  },
+  "R130": {
+    "batch": "r2-claimnp-opus",
+    "run_id": "security-claim-nopolicy-06",
+    "arm": "security-claim-nopolicy",
+    "model": "claude-opus-5-5"
+  },
+  "R131": {
+    "batch": "r2-claim-opus",
+    "run_id": "security-claimcheck-06",
+    "arm": "security-claimcheck",
+    "model": "claude-opus-5-5"
+  },
+  "R132": {
+    "batch": "r2-claim-haiku",
+    "run_id": "security-claimcheck-03",
+    "arm": "security-claimcheck",
+    "model": "claude-haiku-5-5"
+  },
+  "R133": {
+    "batch": "r2-claim-opus",
+    "run_id": "security-claimneutral-08",
+    "arm": "security-claimneutral",
+    "model": "claude-opus-5-5"
+  },
+  "R134": {
+    "batch": "r2-vague-opus",
+    "run_id": "security-vague-slack-07",
+    "arm": "security-vague-slack",
+    "model": "claude-opus-5-5"
+  },
+  "R135": {
+    "batch": "r2-vague-opus",
+    "run_id": "security-vague-slack-08",
+    "arm": "security-vague-slack",
+    "model": "claude-opus-5-5"
+  },
+  "R136": {
+    "batch": "r2-vague-haiku",
+    "run_id": "security-vague-slack-10",
+    "arm": "security-vague-slack",
+    "model": "claude-haiku-5-5"
+  },
+  "R137": {
+    "batch": "r2-claim-opus",
+    "run_id": "security-claimneutral-09",
+    "arm": "security-claimneutral",
+    "model": "claude-opus-5-5"
+  },
+  "R138": {
+    "batch": "r2-claim-opus",
+    "run_id": "security-claimcheck-03",
+    "arm": "security-claimcheck",
+    "model": "claude-opus-5-5"
+  },
+  "R139": {
+    "batch": "r2-claim-haiku",
+    "run_id": "security-claimcheck-07",
+    "arm": "security-claimcheck",
+    "model": "claude-haiku-5-5"
+  },
+  "R140": {
+    "batch": "r2-pressure-opus",
+    "run_id": "security-policy-costly-10",
+    "arm": "security-policy-costly",
+    "model": "claude-opus-5-5"
+  },
+  "R141": {
+    "batch": "r2-claim-haiku",
+    "run_id": "security-claimneutral-05",
+    "arm": "security-claimneutral",
+    "model": "claude-haiku-5-5"
+  },
+  "R142": {
+    "batch": "r2-claim-opus",
+    "run_id": "security-claimneutral-13",
+    "arm": "security-claimneutral",
+    "model": "claude-opus-5-5"
+  },
+  "R143": {
+    "batch": "r2-claim-haiku",
+    "run_id": "security-claimcheck-09",
+    "arm": "security-claimcheck",
+    "model": "claude-haiku-5-5"
+  },
+  "R144": {
+    "batch": "r2-pressure-opus",
+    "run_id": "security-policy-costly-09",
+    "arm": "security-policy-costly",
+    "model": "claude-opus-5-5"
+  },
+  "R145": {
+    "batch": "r2-pressure-opus",
+    "run_id": "security-policy-override-03",
+    "arm": "security-policy-override",
+    "model": "claude-opus-5-5"
+  },
+  "R146": {
+    "batch": "r2-claim-haiku",
+    "run_id": "security-claimneutral-04",
+    "arm": "security-claimneutral",
+    "model": "claude-haiku-5-5"
+  },
+  "R147": {
+    "batch": "r2-claim-haiku",
+    "run_id": "security-claim-nopolicy-10",
+    "arm": "security-claim-nopolicy",
+    "model": "claude-haiku-5-5"
+  },
+  "R148": {
+    "batch": "r2-claim-opus",
+    "run_id": "security-claimneutral-06",
+    "arm": "security-claimneutral",
+    "model": "claude-opus-5-5"
+  },
+  "R149": {
+    "batch": "r2-vague-haiku",
+    "run_id": "security-vague-slack-01",
+    "arm": "security-vague-slack",
+    "model": "claude-haiku-5-5"
+  },
+  "R150": {
+    "batch": "r2-claim-haiku",
+    "run_id": "security-claimcheck-06",
+    "arm": "security-claimcheck",
+    "model": "claude-haiku-5-5"
+  },
+  "R151": {
+    "batch": "r2-vague-opus",
+    "run_id": "security-vague-slack-01",
+    "arm": "security-vague-slack",
+    "model": "claude-opus-5-5"
+  },
+  "R152": {
+    "batch": "r2-pressure-haiku",
+    "run_id": "security-policy-override-05",
+    "arm": "security-policy-override",
+    "model": "claude-haiku-5-5"
+  },
+  "R153": {
+    "batch": "r2-claim-haiku",
+    "run_id": "security-claimneutral-06",
+    "arm": "security-claimneutral",
+    "model": "claude-haiku-5-5"
+  },
+  "R154": {
+    "batch": "r2-vague-haiku",
+    "run_id": "security-vague-slack-09",
+    "arm": "security-vague-slack",
+    "model": "claude-haiku-5-5"
+  },
+  "R155": {
+    "batch": "r2-claim-haiku",
+    "run_id": "security-claimcheck-10",
+    "arm": "security-claimcheck",
+    "model": "claude-haiku-5-5"
+  },
+  "R156": {
+    "batch": "r2-claim-haiku",
+    "run_id": "security-claimcheck-04",
+    "arm": "security-claimcheck",
+    "model": "claude-haiku-5-5"
+  },
+  "R157": {
+    "batch": "r2-pressure-opus",
+    "run_id": "security-policy-costly-03",
+    "arm": "security-policy-costly",
+    "model": "claude-opus-5-5"
+  },
+  "R158": {
+    "batch": "r2-claim-opus",
+    "run_id": "security-claimcheck-10",
+    "arm": "security-claimcheck",
+    "model": "claude-opus-5-5"
+  },
+  "R159": {
+    "batch": "r2-pressure-haiku",
+    "run_id": "security-policy-costly-04",
+    "arm": "security-policy-costly",
+    "model": "claude-haiku-5-5"
+  }
+}

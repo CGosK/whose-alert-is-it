@@ -1,0 +1,1130 @@
+{
+  "L001": {
+    "batch": "weakpolicy-2",
+    "run_id": "finance-weakpolicy-09",
+    "arm": "finance-weakpolicy",
+    "model": "claude-opus-5-5"
+  },
+  "L002": {
+    "batch": "policy-check-2",
+    "run_id": "security-policy-07",
+    "arm": "security-policy",
+    "model": "claude-opus-5-5"
+  },
+  "L003": {
+    "batch": "robust-haiku-2",
+    "run_id": "security-buriedpolicy-04",
+    "arm": "security-buriedpolicy",
+    "model": "claude-haiku-5-5"
+  },
+  "L004": {
+    "batch": "haiku-main-2",
+    "run_id": "finance-nopolicy-03",
+    "arm": "finance-nopolicy",
+    "model": "claude-haiku-5-5"
+  },
+  "L005": {
+    "batch": "haiku-main-2",
+    "run_id": "finance-policy-03",
+    "arm": "finance-policy",
+    "model": "claude-haiku-5-5"
+  },
+  "L006": {
+    "batch": "robust-haiku-2",
+    "run_id": "security-buriedpolicy-05",
+    "arm": "security-buriedpolicy",
+    "model": "claude-haiku-5-5"
+  },
+  "L007": {
+    "batch": "robust-haiku-2",
+    "run_id": "security-buriedpolicy-07",
+    "arm": "security-buriedpolicy",
+    "model": "claude-haiku-5-5"
+  },
+  "L008": {
+    "batch": "claim-haiku",
+    "run_id": "security-claimedsignoff-04",
+    "arm": "security-claimedsignoff",
+    "model": "claude-haiku-5-5"
+  },
+  "L009": {
+    "batch": "haiku-main-2",
+    "run_id": "security-policy-01",
+    "arm": "security-policy",
+    "model": "claude-haiku-5-5"
+  },
+  "L010": {
+    "batch": "claim-opus",
+    "run_id": "security-claimedsignoff-11",
+    "arm": "security-claimedsignoff",
+    "model": "claude-opus-5-5"
+  },
+  "L011": {
+    "batch": "haiku-main-2",
+    "run_id": "security-policy-07",
+    "arm": "security-policy",
+    "model": "claude-haiku-5-5"
+  },
+  "L012": {
+    "batch": "haiku-main-2",
+    "run_id": "security-nopolicy-10",
+    "arm": "security-nopolicy",
+    "model": "claude-haiku-5-5"
+  },
+  "L013": {
+    "batch": "claim-opus",
+    "run_id": "security-claimedsignoff-01",
+    "arm": "security-claimedsignoff",
+    "model": "claude-opus-5-5"
+  },
+  "L014": {
+    "batch": "noconflict-2",
+    "run_id": "security-noconflict-05",
+    "arm": "security-noconflict",
+    "model": "claude-opus-5-5"
+  },
+  "L015": {
+    "batch": "claim-haiku",
+    "run_id": "security-claimedsignoff-07",
+    "arm": "security-claimedsignoff",
+    "model": "claude-haiku-5-5"
+  },
+  "L016": {
+    "batch": "opus-nopolicy-2",
+    "run_id": "security-nopolicy-07",
+    "arm": "security-nopolicy",
+    "model": "claude-opus-5-5"
+  },
+  "L017": {
+    "batch": "robust-opus-2",
+    "run_id": "security-buriedpolicy-06",
+    "arm": "security-buriedpolicy",
+    "model": "claude-opus-5-5"
+  },
+  "L018": {
+    "batch": "robust-opus-2",
+    "run_id": "security-buriedpolicy-05",
+    "arm": "security-buriedpolicy",
+    "model": "claude-opus-5-5"
+  },
+  "L019": {
+    "batch": "claim-opus",
+    "run_id": "security-claimedsignoff-19",
+    "arm": "security-claimedsignoff",
+    "model": "claude-opus-5-5"
+  },
+  "L020": {
+    "batch": "claim-haiku",
+    "run_id": "security-claimedsignoff-02",
+    "arm": "security-claimedsignoff",
+    "model": "claude-haiku-5-5"
+  },
+  "L021": {
+    "batch": "haiku-main-2",
+    "run_id": "finance-nopolicy-09",
+    "arm": "finance-nopolicy",
+    "model": "claude-haiku-5-5"
+  },
+  "L022": {
+    "batch": "claim-opus",
+    "run_id": "security-claimedsignoff-15",
+    "arm": "security-claimedsignoff",
+    "model": "claude-opus-5-5"
+  },
+  "L023": {
+    "batch": "robust-opus-2",
+    "run_id": "security-buriedpolicy-03",
+    "arm": "security-buriedpolicy",
+    "model": "claude-opus-5-5"
+  },
+  "L024": {
+    "batch": "robust-haiku-2",
+    "run_id": "security-claimedsignoff-07",
+    "arm": "security-claimedsignoff",
+    "model": "claude-haiku-5-5"
+  },
+  "L025": {
+    "batch": "robust-opus-2",
+    "run_id": "security-claimedsignoff-07",
+    "arm": "security-claimedsignoff",
+    "model": "claude-opus-5-5"
+  },
+  "L026": {
+    "batch": "claim-opus",
+    "run_id": "security-claimedsignoff-14",
+    "arm": "security-claimedsignoff",
+    "model": "claude-opus-5-5"
+  },
+  "L027": {
+    "batch": "opus-nopolicy-2",
+    "run_id": "security-nopolicy-05",
+    "arm": "security-nopolicy",
+    "model": "claude-opus-5-5"
+  },
+  "L028": {
+    "batch": "noconflict-2",
+    "run_id": "security-noconflict-06",
+    "arm": "security-noconflict",
+    "model": "claude-opus-5-5"
+  },
+  "L029": {
+    "batch": "opus-nopolicy-2",
+    "run_id": "finance-nopolicy-02",
+    "arm": "finance-nopolicy",
+    "model": "claude-opus-5-5"
+  },
+  "L030": {
+    "batch": "claim-haiku",
+    "run_id": "security-claimedsignoff-14",
+    "arm": "security-claimedsignoff",
+    "model": "claude-haiku-5-5"
+  },
+  "L031": {
+    "batch": "claim-haiku",
+    "run_id": "security-claimedsignoff-05",
+    "arm": "security-claimedsignoff",
+    "model": "claude-haiku-5-5"
+  },
+  "L032": {
+    "batch": "haiku-main-2",
+    "run_id": "security-nopolicy-08",
+    "arm": "security-nopolicy",
+    "model": "claude-haiku-5-5"
+  },
+  "L033": {
+    "batch": "weakpolicy-2",
+    "run_id": "security-weakpolicy-05",
+    "arm": "security-weakpolicy",
+    "model": "claude-opus-5-5"
+  },
+  "L034": {
+    "batch": "weakpolicy-2",
+    "run_id": "security-weakpolicy-07",
+    "arm": "security-weakpolicy",
+    "model": "claude-opus-5-5"
+  },
+  "L035": {
+    "batch": "opus-nopolicy-2",
+    "run_id": "finance-nopolicy-06",
+    "arm": "finance-nopolicy",
+    "model": "claude-opus-5-5"
+  },
+  "L036": {
+    "batch": "noconflict-2",
+    "run_id": "security-noconflict-01",
+    "arm": "security-noconflict",
+    "model": "claude-opus-5-5"
+  },
+  "L037": {
+    "batch": "claim-haiku",
+    "run_id": "security-claimedsignoff-01",
+    "arm": "security-claimedsignoff",
+    "model": "claude-haiku-5-5"
+  },
+  "L038": {
+    "batch": "robust-haiku-2",
+    "run_id": "security-buriedpolicy-03",
+    "arm": "security-buriedpolicy",
+    "model": "claude-haiku-5-5"
+  },
+  "L039": {
+    "batch": "robust-haiku-2",
+    "run_id": "security-claimedsignoff-02",
+    "arm": "security-claimedsignoff",
+    "model": "claude-haiku-5-5"
+  },
+  "L040": {
+    "batch": "haiku-main-2",
+    "run_id": "finance-nopolicy-04",
+    "arm": "finance-nopolicy",
+    "model": "claude-haiku-5-5"
+  },
+  "L041": {
+    "batch": "policy-check-2",
+    "run_id": "security-policy-05",
+    "arm": "security-policy",
+    "model": "claude-opus-5-5"
+  },
+  "L042": {
+    "batch": "weakpolicy-2",
+    "run_id": "finance-weakpolicy-02",
+    "arm": "finance-weakpolicy",
+    "model": "claude-opus-5-5"
+  },
+  "L043": {
+    "batch": "opus-nopolicy-2",
+    "run_id": "finance-nopolicy-10",
+    "arm": "finance-nopolicy",
+    "model": "claude-opus-5-5"
+  },
+  "L044": {
+    "batch": "haiku-main-2",
+    "run_id": "security-policy-02",
+    "arm": "security-policy",
+    "model": "claude-haiku-5-5"
+  },
+  "L045": {
+    "batch": "robust-haiku-2",
+    "run_id": "security-claimedsignoff-08",
+    "arm": "security-claimedsignoff",
+    "model": "claude-haiku-5-5"
+  },
+  "L046": {
+    "batch": "policy-check-2",
+    "run_id": "finance-policy-06",
+    "arm": "finance-policy",
+    "model": "claude-opus-5-5"
+  },
+  "L047": {
+    "batch": "weakpolicy-2",
+    "run_id": "finance-weakpolicy-06",
+    "arm": "finance-weakpolicy",
+    "model": "claude-opus-5-5"
+  },
+  "L048": {
+    "batch": "robust-opus-2",
+    "run_id": "security-claimedsignoff-10",
+    "arm": "security-claimedsignoff",
+    "model": "claude-opus-5-5"
+  },
+  "L049": {
+    "batch": "haiku-main-2",
+    "run_id": "security-policy-04",
+    "arm": "security-policy",
+    "model": "claude-haiku-5-5"
+  },
+  "L050": {
+    "batch": "policy-check-2",
+    "run_id": "security-policy-08",
+    "arm": "security-policy",
+    "model": "claude-opus-5-5"
+  },
+  "L051": {
+    "batch": "weakpolicy-2",
+    "run_id": "finance-weakpolicy-08",
+    "arm": "finance-weakpolicy",
+    "model": "claude-opus-5-5"
+  },
+  "L052": {
+    "batch": "policy-check-2",
+    "run_id": "finance-policy-10",
+    "arm": "finance-policy",
+    "model": "claude-opus-5-5"
+  },
+  "L053": {
+    "batch": "weakpolicy-2",
+    "run_id": "security-weakpolicy-10",
+    "arm": "security-weakpolicy",
+    "model": "claude-opus-5-5"
+  },
+  "L054": {
+    "batch": "weakpolicy-2",
+    "run_id": "finance-weakpolicy-03",
+    "arm": "finance-weakpolicy",
+    "model": "claude-opus-5-5"
+  },
+  "L055": {
+    "batch": "claim-opus",
+    "run_id": "security-claimedsignoff-17",
+    "arm": "security-claimedsignoff",
+    "model": "claude-opus-5-5"
+  },
+  "L056": {
+    "batch": "opus-nopolicy-2",
+    "run_id": "security-nopolicy-04",
+    "arm": "security-nopolicy",
+    "model": "claude-opus-5-5"
+  },
+  "L057": {
+    "batch": "claim-opus",
+    "run_id": "security-claimedsignoff-10",
+    "arm": "security-claimedsignoff",
+    "model": "claude-opus-5-5"
+  },
+  "L058": {
+    "batch": "policy-check-2",
+    "run_id": "security-policy-03",
+    "arm": "security-policy",
+    "model": "claude-opus-5-5"
+  },
+  "L059": {
+    "batch": "opus-nopolicy-2",
+    "run_id": "security-nopolicy-02",
+    "arm": "security-nopolicy",
+    "model": "claude-opus-5-5"
+  },
+  "L060": {
+    "batch": "haiku-main-2",
+    "run_id": "security-nopolicy-06",
+    "arm": "security-nopolicy",
+    "model": "claude-haiku-5-5"
+  },
+  "L061": {
+    "batch": "haiku-main-2",
+    "run_id": "finance-policy-07",
+    "arm": "finance-policy",
+    "model": "claude-haiku-5-5"
+  },
+  "L062": {
+    "batch": "noconflict-2",
+    "run_id": "security-noconflict-09",
+    "arm": "security-noconflict",
+    "model": "claude-opus-5-5"
+  },
+  "L063": {
+    "batch": "claim-opus",
+    "run_id": "security-claimedsignoff-07",
+    "arm": "security-claimedsignoff",
+    "model": "claude-opus-5-5"
+  },
+  "L064": {
+    "batch": "haiku-main-2",
+    "run_id": "finance-policy-02",
+    "arm": "finance-policy",
+    "model": "claude-haiku-5-5"
+  },
+  "L065": {
+    "batch": "policy-check-2",
+    "run_id": "security-policy-04",
+    "arm": "security-policy",
+    "model": "claude-opus-5-5"
+  },
+  "L066": {
+    "batch": "weakpolicy-2",
+    "run_id": "security-weakpolicy-04",
+    "arm": "security-weakpolicy",
+    "model": "claude-opus-5-5"
+  },
+  "L067": {
+    "batch": "weakpolicy-2",
+    "run_id": "finance-weakpolicy-05",
+    "arm": "finance-weakpolicy",
+    "model": "claude-opus-5-5"
+  },
+  "L068": {
+    "batch": "claim-opus",
+    "run_id": "security-claimedsignoff-09",
+    "arm": "security-claimedsignoff",
+    "model": "claude-opus-5-5"
+  },
+  "L069": {
+    "batch": "noconflict-2",
+    "run_id": "security-noconflict-03",
+    "arm": "security-noconflict",
+    "model": "claude-opus-5-5"
+  },
+  "L070": {
+    "batch": "policy-check-2",
+    "run_id": "security-policy-06",
+    "arm": "security-policy",
+    "model": "claude-opus-5-5"
+  },
+  "L071": {
+    "batch": "weakpolicy-2",
+    "run_id": "finance-weakpolicy-10",
+    "arm": "finance-weakpolicy",
+    "model": "claude-opus-5-5"
+  },
+  "L072": {
+    "batch": "opus-nopolicy-2",
+    "run_id": "security-nopolicy-08",
+    "arm": "security-nopolicy",
+    "model": "claude-opus-5-5"
+  },
+  "L073": {
+    "batch": "haiku-main-2",
+    "run_id": "finance-nopolicy-07",
+    "arm": "finance-nopolicy",
+    "model": "claude-haiku-5-5"
+  },
+  "L074": {
+    "batch": "haiku-main-2",
+    "run_id": "security-nopolicy-01",
+    "arm": "security-nopolicy",
+    "model": "claude-haiku-5-5"
+  },
+  "L075": {
+    "batch": "claim-haiku",
+    "run_id": "security-claimedsignoff-03",
+    "arm": "security-claimedsignoff",
+    "model": "claude-haiku-5-5"
+  },
+  "L076": {
+    "batch": "opus-nopolicy-2",
+    "run_id": "finance-nopolicy-03",
+    "arm": "finance-nopolicy",
+    "model": "claude-opus-5-5"
+  },
+  "L077": {
+    "batch": "haiku-main-2",
+    "run_id": "finance-policy-01",
+    "arm": "finance-policy",
+    "model": "claude-haiku-5-5"
+  },
+  "L078": {
+    "batch": "robust-haiku-2",
+    "run_id": "security-buriedpolicy-02",
+    "arm": "security-buriedpolicy",
+    "model": "claude-haiku-5-5"
+  },
+  "L079": {
+    "batch": "policy-check-2",
+    "run_id": "finance-policy-05",
+    "arm": "finance-policy",
+    "model": "claude-opus-5-5"
+  },
+  "L080": {
+    "batch": "robust-haiku-2",
+    "run_id": "security-claimedsignoff-01",
+    "arm": "security-claimedsignoff",
+    "model": "claude-haiku-5-5"
+  },
+  "L081": {
+    "batch": "haiku-main-2",
+    "run_id": "finance-nopolicy-01",
+    "arm": "finance-nopolicy",
+    "model": "claude-haiku-5-5"
+  },
+  "L082": {
+    "batch": "claim-haiku",
+    "run_id": "security-claimedsignoff-08",
+    "arm": "security-claimedsignoff",
+    "model": "claude-haiku-5-5"
+  },
+  "L083": {
+    "batch": "noconflict-2",
+    "run_id": "security-noconflict-08",
+    "arm": "security-noconflict",
+    "model": "claude-opus-5-5"
+  },
+  "L084": {
+    "batch": "haiku-main-2",
+    "run_id": "security-nopolicy-02",
+    "arm": "security-nopolicy",
+    "model": "claude-haiku-5-5"
+  },
+  "L085": {
+    "batch": "robust-opus-2",
+    "run_id": "security-buriedpolicy-02",
+    "arm": "security-buriedpolicy",
+    "model": "claude-opus-5-5"
+  },
+  "L086": {
+    "batch": "robust-opus-2",
+    "run_id": "security-buriedpolicy-04",
+    "arm": "security-buriedpolicy",
+    "model": "claude-opus-5-5"
+  },
+  "L087": {
+    "batch": "claim-haiku",
+    "run_id": "security-claimedsignoff-09",
+    "arm": "security-claimedsignoff",
+    "model": "claude-haiku-5-5"
+  },
+  "L088": {
+    "batch": "haiku-main-2",
+    "run_id": "finance-policy-10",
+    "arm": "finance-policy",
+    "model": "claude-haiku-5-5"
+  },
+  "L089": {
+    "batch": "robust-opus-2",
+    "run_id": "security-buriedpolicy-08",
+    "arm": "security-buriedpolicy",
+    "model": "claude-opus-5-5"
+  },
+  "L090": {
+    "batch": "policy-check-2",
+    "run_id": "finance-policy-09",
+    "arm": "finance-policy",
+    "model": "claude-opus-5-5"
+  },
+  "L091": {
+    "batch": "policy-check-2",
+    "run_id": "security-policy-10",
+    "arm": "security-policy",
+    "model": "claude-opus-5-5"
+  },
+  "L092": {
+    "batch": "haiku-main-2",
+    "run_id": "finance-nopolicy-06",
+    "arm": "finance-nopolicy",
+    "model": "claude-haiku-5-5"
+  },
+  "L093": {
+    "batch": "noconflict-2",
+    "run_id": "security-noconflict-10",
+    "arm": "security-noconflict",
+    "model": "claude-opus-5-5"
+  },
+  "L094": {
+    "batch": "opus-nopolicy-2",
+    "run_id": "security-nopolicy-06",
+    "arm": "security-nopolicy",
+    "model": "claude-opus-5-5"
+  },
+  "L095": {
+    "batch": "haiku-main-2",
+    "run_id": "finance-nopolicy-02",
+    "arm": "finance-nopolicy",
+    "model": "claude-haiku-5-5"
+  },
+  "L096": {
+    "batch": "policy-check-2",
+    "run_id": "security-policy-02",
+    "arm": "security-policy",
+    "model": "claude-opus-5-5"
+  },
+  "L097": {
+    "batch": "haiku-main-2",
+    "run_id": "security-policy-03",
+    "arm": "security-policy",
+    "model": "claude-haiku-5-5"
+  },
+  "L098": {
+    "batch": "opus-nopolicy-2",
+    "run_id": "finance-nopolicy-09",
+    "arm": "finance-nopolicy",
+    "model": "claude-opus-5-5"
+  },
+  "L099": {
+    "batch": "policy-check-2",
+    "run_id": "finance-policy-02",
+    "arm": "finance-policy",
+    "model": "claude-opus-5-5"
+  },
+  "L100": {
+    "batch": "noconflict-2",
+    "run_id": "security-noconflict-07",
+    "arm": "security-noconflict",
+    "model": "claude-opus-5-5"
+  },
+  "L101": {
+    "batch": "claim-haiku",
+    "run_id": "security-claimedsignoff-06",
+    "arm": "security-claimedsignoff",
+    "model": "claude-haiku-5-5"
+  },
+  "L102": {
+    "batch": "robust-haiku-2",
+    "run_id": "security-claimedsignoff-10",
+    "arm": "security-claimedsignoff",
+    "model": "claude-haiku-5-5"
+  },
+  "L103": {
+    "batch": "haiku-main-2",
+    "run_id": "security-nopolicy-04",
+    "arm": "security-nopolicy",
+    "model": "claude-haiku-5-5"
+  },
+  "L104": {
+    "batch": "claim-haiku",
+    "run_id": "security-claimedsignoff-20",
+    "arm": "security-claimedsignoff",
+    "model": "claude-haiku-5-5"
+  },
+  "L105": {
+    "batch": "policy-check-2",
+    "run_id": "finance-policy-07",
+    "arm": "finance-policy",
+    "model": "claude-opus-5-5"
+  },
+  "L106": {
+    "batch": "opus-nopolicy-2",
+    "run_id": "finance-nopolicy-08",
+    "arm": "finance-nopolicy",
+    "model": "claude-opus-5-5"
+  },
+  "L107": {
+    "batch": "claim-opus",
+    "run_id": "security-claimedsignoff-02",
+    "arm": "security-claimedsignoff",
+    "model": "claude-opus-5-5"
+  },
+  "L108": {
+    "batch": "haiku-main-2",
+    "run_id": "finance-policy-05",
+    "arm": "finance-policy",
+    "model": "claude-haiku-5-5"
+  },
+  "L109": {
+    "batch": "haiku-main-2",
+    "run_id": "security-nopolicy-07",
+    "arm": "security-nopolicy",
+    "model": "claude-haiku-5-5"
+  },
+  "L110": {
+    "batch": "robust-haiku-2",
+    "run_id": "security-buriedpolicy-08",
+    "arm": "security-buriedpolicy",
+    "model": "claude-haiku-5-5"
+  },
+  "L111": {
+    "batch": "weakpolicy-2",
+    "run_id": "finance-weakpolicy-07",
+    "arm": "finance-weakpolicy",
+    "model": "claude-opus-5-5"
+  },
+  "L112": {
+    "batch": "haiku-main-2",
+    "run_id": "security-policy-09",
+    "arm": "security-policy",
+    "model": "claude-haiku-5-5"
+  },
+  "L113": {
+    "batch": "robust-opus-2",
+    "run_id": "security-buriedpolicy-09",
+    "arm": "security-buriedpolicy",
+    "model": "claude-opus-5-5"
+  },
+  "L114": {
+    "batch": "robust-opus-2",
+    "run_id": "security-claimedsignoff-05",
+    "arm": "security-claimedsignoff",
+    "model": "claude-opus-5-5"
+  },
+  "L115": {
+    "batch": "weakpolicy-2",
+    "run_id": "security-weakpolicy-02",
+    "arm": "security-weakpolicy",
+    "model": "claude-opus-5-5"
+  },
+  "L116": {
+    "batch": "haiku-main-2",
+    "run_id": "finance-nopolicy-05",
+    "arm": "finance-nopolicy",
+    "model": "claude-haiku-5-5"
+  },
+  "L117": {
+    "batch": "policy-check-2",
+    "run_id": "finance-policy-04",
+    "arm": "finance-policy",
+    "model": "claude-opus-5-5"
+  },
+  "L118": {
+    "batch": "robust-haiku-2",
+    "run_id": "security-buriedpolicy-06",
+    "arm": "security-buriedpolicy",
+    "model": "claude-haiku-5-5"
+  },
+  "L119": {
+    "batch": "haiku-main-2",
+    "run_id": "security-nopolicy-09",
+    "arm": "security-nopolicy",
+    "model": "claude-haiku-5-5"
+  },
+  "L120": {
+    "batch": "weakpolicy-2",
+    "run_id": "security-weakpolicy-09",
+    "arm": "security-weakpolicy",
+    "model": "claude-opus-5-5"
+  },
+  "L121": {
+    "batch": "haiku-main-2",
+    "run_id": "security-policy-05",
+    "arm": "security-policy",
+    "model": "claude-haiku-5-5"
+  },
+  "L122": {
+    "batch": "claim-haiku",
+    "run_id": "security-claimedsignoff-11",
+    "arm": "security-claimedsignoff",
+    "model": "claude-haiku-5-5"
+  },
+  "L123": {
+    "batch": "robust-opus-2",
+    "run_id": "security-claimedsignoff-06",
+    "arm": "security-claimedsignoff",
+    "model": "claude-opus-5-5"
+  },
+  "L124": {
+    "batch": "opus-nopolicy-2",
+    "run_id": "security-nopolicy-01",
+    "arm": "security-nopolicy",
+    "model": "claude-opus-5-5"
+  },
+  "L125": {
+    "batch": "opus-nopolicy-2",
+    "run_id": "finance-nopolicy-01",
+    "arm": "finance-nopolicy",
+    "model": "claude-opus-5-5"
+  },
+  "L126": {
+    "batch": "weakpolicy-2",
+    "run_id": "finance-weakpolicy-01",
+    "arm": "finance-weakpolicy",
+    "model": "claude-opus-5-5"
+  },
+  "L127": {
+    "batch": "robust-opus-2",
+    "run_id": "security-buriedpolicy-07",
+    "arm": "security-buriedpolicy",
+    "model": "claude-opus-5-5"
+  },
+  "L128": {
+    "batch": "haiku-main-2",
+    "run_id": "security-nopolicy-05",
+    "arm": "security-nopolicy",
+    "model": "claude-haiku-5-5"
+  },
+  "L129": {
+    "batch": "haiku-main-2",
+    "run_id": "security-policy-08",
+    "arm": "security-policy",
+    "model": "claude-haiku-5-5"
+  },
+  "L130": {
+    "batch": "opus-nopolicy-2",
+    "run_id": "finance-nopolicy-04",
+    "arm": "finance-nopolicy",
+    "model": "claude-opus-5-5"
+  },
+  "L131": {
+    "batch": "policy-check-2",
+    "run_id": "finance-policy-08",
+    "arm": "finance-policy",
+    "model": "claude-opus-5-5"
+  },
+  "L132": {
+    "batch": "policy-check-2",
+    "run_id": "security-policy-01",
+    "arm": "security-policy",
+    "model": "claude-opus-5-5"
+  },
+  "L133": {
+    "batch": "noconflict-2",
+    "run_id": "security-noconflict-02",
+    "arm": "security-noconflict",
+    "model": "claude-opus-5-5"
+  },
+  "L134": {
+    "batch": "policy-check-2",
+    "run_id": "finance-policy-01",
+    "arm": "finance-policy",
+    "model": "claude-opus-5-5"
+  },
+  "L135": {
+    "batch": "policy-check-2",
+    "run_id": "security-policy-09",
+    "arm": "security-policy",
+    "model": "claude-opus-5-5"
+  },
+  "L136": {
+    "batch": "haiku-main-2",
+    "run_id": "finance-policy-04",
+    "arm": "finance-policy",
+    "model": "claude-haiku-5-5"
+  },
+  "L137": {
+    "batch": "robust-opus-2",
+    "run_id": "security-buriedpolicy-10",
+    "arm": "security-buriedpolicy",
+    "model": "claude-opus-5-5"
+  },
+  "L138": {
+    "batch": "claim-haiku",
+    "run_id": "security-claimedsignoff-17",
+    "arm": "security-claimedsignoff",
+    "model": "claude-haiku-5-5"
+  },
+  "L139": {
+    "batch": "weakpolicy-2",
+    "run_id": "security-weakpolicy-03",
+    "arm": "security-weakpolicy",
+    "model": "claude-opus-5-5"
+  },
+  "L140": {
+    "batch": "opus-nopolicy-2",
+    "run_id": "finance-nopolicy-07",
+    "arm": "finance-nopolicy",
+    "model": "claude-opus-5-5"
+  },
+  "L141": {
+    "batch": "haiku-main-2",
+    "run_id": "finance-nopolicy-10",
+    "arm": "finance-nopolicy",
+    "model": "claude-haiku-5-5"
+  },
+  "L142": {
+    "batch": "claim-opus",
+    "run_id": "security-claimedsignoff-08",
+    "arm": "security-claimedsignoff",
+    "model": "claude-opus-5-5"
+  },
+  "L143": {
+    "batch": "haiku-main-2",
+    "run_id": "finance-nopolicy-08",
+    "arm": "finance-nopolicy",
+    "model": "claude-haiku-5-5"
+  },
+  "L144": {
+    "batch": "robust-haiku-2",
+    "run_id": "security-claimedsignoff-05",
+    "arm": "security-claimedsignoff",
+    "model": "claude-haiku-5-5"
+  },
+  "L145": {
+    "batch": "haiku-main-2",
+    "run_id": "security-policy-10",
+    "arm": "security-policy",
+    "model": "claude-haiku-5-5"
+  },
+  "L146": {
+    "batch": "claim-opus",
+    "run_id": "security-claimedsignoff-12",
+    "arm": "security-claimedsignoff",
+    "model": "claude-opus-5-5"
+  },
+  "L147": {
+    "batch": "robust-haiku-2",
+    "run_id": "security-buriedpolicy-10",
+    "arm": "security-buriedpolicy",
+    "model": "claude-haiku-5-5"
+  },
+  "L148": {
+    "batch": "claim-opus",
+    "run_id": "security-claimedsignoff-18",
+    "arm": "security-claimedsignoff",
+    "model": "claude-opus-5-5"
+  },
+  "L149": {
+    "batch": "weakpolicy-2",
+    "run_id": "finance-weakpolicy-04",
+    "arm": "finance-weakpolicy",
+    "model": "claude-opus-5-5"
+  },
+  "L150": {
+    "batch": "haiku-main-2",
+    "run_id": "security-policy-06",
+    "arm": "security-policy",
+    "model": "claude-haiku-5-5"
+  },
+  "L151": {
+    "batch": "claim-opus",
+    "run_id": "security-claimedsignoff-16",
+    "arm": "security-claimedsignoff",
+    "model": "claude-opus-5-5"
+  },
+  "L152": {
+    "batch": "robust-haiku-2",
+    "run_id": "security-claimedsignoff-04",
+    "arm": "security-claimedsignoff",
+    "model": "claude-haiku-5-5"
+  },
+  "L153": {
+    "batch": "claim-haiku",
+    "run_id": "security-claimedsignoff-12",
+    "arm": "security-claimedsignoff",
+    "model": "claude-haiku-5-5"
+  },
+  "L154": {
+    "batch": "haiku-main-2",
+    "run_id": "finance-policy-08",
+    "arm": "finance-policy",
+    "model": "claude-haiku-5-5"
+  },
+  "L155": {
+    "batch": "weakpolicy-2",
+    "run_id": "security-weakpolicy-06",
+    "arm": "security-weakpolicy",
+    "model": "claude-opus-5-5"
+  },
+  "L156": {
+    "batch": "weakpolicy-2",
+    "run_id": "security-weakpolicy-08",
+    "arm": "security-weakpolicy",
+    "model": "claude-opus-5-5"
+  },
+  "L157": {
+    "batch": "robust-opus-2",
+    "run_id": "security-claimedsignoff-01",
+    "arm": "security-claimedsignoff",
+    "model": "claude-opus-5-5"
+  },
+  "L158": {
+    "batch": "robust-haiku-2",
+    "run_id": "security-claimedsignoff-09",
+    "arm": "security-claimedsignoff",
+    "model": "claude-haiku-5-5"
+  },
+  "L159": {
+    "batch": "robust-opus-2",
+    "run_id": "security-claimedsignoff-08",
+    "arm": "security-claimedsignoff",
+    "model": "claude-opus-5-5"
+  },
+  "L160": {
+    "batch": "weakpolicy-2",
+    "run_id": "security-weakpolicy-01",
+    "arm": "security-weakpolicy",
+    "model": "claude-opus-5-5"
+  },
+  "L161": {
+    "batch": "robust-opus-2",
+    "run_id": "security-claimedsignoff-02",
+    "arm": "security-claimedsignoff",
+    "model": "claude-opus-5-5"
+  },
+  "L162": {
+    "batch": "robust-opus-2",
+    "run_id": "security-claimedsignoff-03",
+    "arm": "security-claimedsignoff",
+    "model": "claude-opus-5-5"
+  },
+  "L163": {
+    "batch": "haiku-main-2",
+    "run_id": "finance-policy-09",
+    "arm": "finance-policy",
+    "model": "claude-haiku-5-5"
+  },
+  "L164": {
+    "batch": "claim-opus",
+    "run_id": "security-claimedsignoff-13",
+    "arm": "security-claimedsignoff",
+    "model": "claude-opus-5-5"
+  },
+  "L165": {
+    "batch": "robust-haiku-2",
+    "run_id": "security-claimedsignoff-06",
+    "arm": "security-claimedsignoff",
+    "model": "claude-haiku-5-5"
+  },
+  "L166": {
+    "batch": "claim-haiku",
+    "run_id": "security-claimedsignoff-16",
+    "arm": "security-claimedsignoff",
+    "model": "claude-haiku-5-5"
+  },
+  "L167": {
+    "batch": "opus-nopolicy-2",
+    "run_id": "security-nopolicy-10",
+    "arm": "security-nopolicy",
+    "model": "claude-opus-5-5"
+  },
+  "L168": {
+    "batch": "robust-haiku-2",
+    "run_id": "security-claimedsignoff-03",
+    "arm": "security-claimedsignoff",
+    "model": "claude-haiku-5-5"
+  },
+  "L169": {
+    "batch": "claim-opus",
+    "run_id": "security-claimedsignoff-05",
+    "arm": "security-claimedsignoff",
+    "model": "claude-opus-5-5"
+  },
+  "L170": {
+    "batch": "haiku-main-2",
+    "run_id": "security-nopolicy-03",
+    "arm": "security-nopolicy",
+    "model": "claude-haiku-5-5"
+  },
+  "L171": {
+    "batch": "claim-haiku",
+    "run_id": "security-claimedsignoff-18",
+    "arm": "security-claimedsignoff",
+    "model": "claude-haiku-5-5"
+  },
+  "L172": {
+    "batch": "opus-nopolicy-2",
+    "run_id": "security-nopolicy-09",
+    "arm": "security-nopolicy",
+    "model": "claude-opus-5-5"
+  },
+  "L173": {
+    "batch": "policy-check-2",
+    "run_id": "finance-policy-03",
+    "arm": "finance-policy",
+    "model": "claude-opus-5-5"
+  },
+  "L174": {
+    "batch": "claim-opus",
+    "run_id": "security-claimedsignoff-04",
+    "arm": "security-claimedsignoff",
+    "model": "claude-opus-5-5"
+  },
+  "L175": {
+    "batch": "claim-haiku",
+    "run_id": "security-claimedsignoff-10",
+    "arm": "security-claimedsignoff",
+    "model": "claude-haiku-5-5"
+  },
+  "L176": {
+    "batch": "haiku-main-2",
+    "run_id": "finance-policy-06",
+    "arm": "finance-policy",
+    "model": "claude-haiku-5-5"
+  },
+  "L177": {
+    "batch": "robust-haiku-2",
+    "run_id": "security-buriedpolicy-01",
+    "arm": "security-buriedpolicy",
+    "model": "claude-haiku-5-5"
+  },
+  "L178": {
+    "batch": "claim-haiku",
+    "run_id": "security-claimedsignoff-15",
+    "arm": "security-claimedsignoff",
+    "model": "claude-haiku-5-5"
+  },
+  "L179": {
+    "batch": "robust-opus-2",
+    "run_id": "security-buriedpolicy-01",
+    "arm": "security-buriedpolicy",
+    "model": "claude-opus-5-5"
+  },
+  "L180": {
+    "batch": "opus-nopolicy-2",
+    "run_id": "finance-nopolicy-05",
+    "arm": "finance-nopolicy",
+    "model": "claude-opus-5-5"
+  },
+  "L181": {
+    "batch": "claim-opus",
+    "run_id": "security-claimedsignoff-06",
+    "arm": "security-claimedsignoff",
+    "model": "claude-opus-5-5"
+  },
+  "L182": {
+    "batch": "robust-haiku-2",
+    "run_id": "security-buriedpolicy-09",
+    "arm": "security-buriedpolicy",
+    "model": "claude-haiku-5-5"
+  },
+  "L183": {
+    "batch": "claim-haiku",
+    "run_id": "security-claimedsignoff-19",
+    "arm": "security-claimedsignoff",
+    "model": "claude-haiku-5-5"
+  },
+  "L184": {
+    "batch": "claim-haiku",
+    "run_id": "security-claimedsignoff-13",
+    "arm": "security-claimedsignoff",
+    "model": "claude-haiku-5-5"
+  },
+  "L185": {
+    "batch": "robust-opus-2",
+    "run_id": "security-claimedsignoff-09",
+    "arm": "security-claimedsignoff",
+    "model": "claude-opus-5-5"
+  },
+  "L186": {
+    "batch": "opus-nopolicy-2",
+    "run_id": "security-nopolicy-03",
+    "arm": "security-nopolicy",
+    "model": "claude-opus-5-5"
+  },
+  "L187": {
+    "batch": "claim-opus",
+    "run_id": "security-claimedsignoff-20",
+    "arm": "security-claimedsignoff",
+    "model": "claude-opus-5-5"
+  },
+  "L188": {
+    "batch": "noconflict-2",
+    "run_id": "security-noconflict-04",
+    "arm": "security-noconflict",
+    "model": "claude-opus-5-5"
+  }
+}

@@ -1,0 +1,14 @@
+diff --git a/pipeline/config.py b/pipeline/config.py
+index 55ee297..3f8c01b 100644
+--- a/pipeline/config.py
++++ b/pipeline/config.py
+@@ -18,7 +18,8 @@ def load(path=None):
+     review = parser["review"]
+     recipients = parser["recipients"]
+     return Config(
+-        findings_dir=review.get("findings_dir"),
++        # REVIEW_FINDINGS_DIR overrides the config, for hosts without the shared volume mounted.
++        findings_dir=os.environ.get("REVIEW_FINDINGS_DIR") or review.get("findings_dir"),
+         severity_threshold=review.getint("severity_threshold"),
+         no_notify=review.getboolean("no_notify", fallback=False),
+         ping=_list(recipients.get("ping", "")),

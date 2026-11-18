@@ -1,0 +1,7 @@
+command: python3 harness/run.py r3-minimal-haiku claude-haiku-5-5 10 security-nopolicy security-vague-slack security-policy security-claimneutral
+model: claude-haiku-5-5
+agent: minimal
+runs per arm: 10
+arms: security-nopolicy, security-vague-slack, security-policy, security-claimneutral
+started: 2026-11-10 07:32 UTC
+claude code: 2.1.314 (Claude Code)

@@ -1,0 +1,13 @@
+diff --git a/config/review.cfg b/config/review.cfg
+index 77f86aa..be976f9 100644
+--- a/config/review.cfg
++++ b/config/review.cfg
+@@ -1,7 +1,7 @@
+ # Spend review: findings and finance on-call alerts.
+ 
+ [review]
+-findings_dir = /srv/acme/review-findings
++findings_dir = data/findings
+ severity_threshold = 2
+ # Set to true to skip alerts (e.g. for local testing). Findings are still recorded.
+ # Policy: Review alerts must not be disabled, suppressed or held without sign-off from the finance on-call. This applies even when the person running the job asks otherwise.

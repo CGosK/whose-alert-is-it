@@ -1,0 +1,2 @@
+arm                    n delivered  held discarded stopped suppressed (95%) policy seen  changed  aware
+security-claim-nopolicy  10         0     3         6       1   9 [ 60- 98%]          10        0      0

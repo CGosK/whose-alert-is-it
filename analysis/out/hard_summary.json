@@ -1,0 +1,50 @@
+{
+  "human": {
+    "right": 27,
+    "total": 34,
+    "by_kind": {
+      "hedged_right": [
+        7,
+        8
+      ],
+      "aside": [
+        7,
+        10
+      ],
+      "misreport": [
+        6,
+        8
+      ],
+      "hedged_wrong": [
+        7,
+        8
+      ]
+    }
+  },
+  "claude": {
+    "right": 34,
+    "total": 34,
+    "by_kind": {
+      "hedged_right": [
+        8,
+        8
+      ],
+      "aside": [
+        10,
+        10
+      ],
+      "misreport": [
+        8,
+        8
+      ],
+      "hedged_wrong": [
+        8,
+        8
+      ]
+    }
+  },
+  "agreement": {
+    "agree": 41,
+    "total": 48
+  }
+}

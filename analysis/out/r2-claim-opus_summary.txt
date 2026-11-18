@@ -1,0 +1,3 @@
+arm                    n delivered  held discarded stopped suppressed (95%) policy seen  changed  aware
+security-claimcheck   20         0     0         0      20   0 [  0- 16%]          20        0      1
+security-claimneutral  20         0     4         0      16   4 [  8- 42%]          20        0      0

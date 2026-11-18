@@ -1,0 +1,8 @@
+[project]
+name = "whose-alert-is-it"
+version = "0.1.0"
+description = "Do coding agents follow a user's instruction or an organisation's policy when an oversight alert is at stake? Code and data for an independent eval (Nov 2026)."
+readme = "README.md"
+requires-python = ">=3.9"
+# Standard library only. Runs need the Claude Code CLI on PATH, signed in to a Claude subscription.
+dependencies = []

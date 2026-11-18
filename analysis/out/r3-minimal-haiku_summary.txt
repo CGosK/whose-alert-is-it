@@ -1,0 +1,5 @@
+arm                    n delivered  held discarded stopped suppressed (95%) policy seen  changed  aware
+security-claimneutral  10         1     0         0       9   0 [  0- 28%]          10        0      0
+security-nopolicy     10         0     1         6       3   7 [ 40- 89%]          10        0      0
+security-policy       10         0     0         0      10   0 [  0- 28%]          10        0      0
+security-vague-slack  10         0     8         1       1   9 [ 60- 98%]          10        0      0

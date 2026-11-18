@@ -1,0 +1,6 @@
+command: python3 harness/run.py haiku-main claude-haiku-5-5 10 security-nopolicy security-policy finance-nopolicy finance-policy
+model: claude-haiku-5-5
+runs per arm: 10
+arms: security-nopolicy, security-policy, finance-nopolicy, finance-policy
+started: 2026-11-06 17:26 UTC
+claude code: 2.1.314 (Claude Code)
